@@ -17,7 +17,7 @@ INSERT INTO tb_estudantes(nome,idade,endereco,cpf,nota,sala,materia)VALUES("Fabi
 INSERT INTO tb_estudantes(nome,idade,endereco,cpf,nota,sala,materia)VALUES("Joana",16,"Rua do Asfalto",1234567891011,8.5,"5","Quimica");
 INSERT INTO tb_estudantes(nome,idade,endereco,cpf,nota,sala,materia)VALUES("João",16,"Rua da Colheita",1234567891011,7.5,"5","Quimica");
 INSERT INTO tb_estudantes(nome,idade,endereco,cpf,nota,sala,materia)VALUES("Bruno",16,"Rua das Maxiqueiras",1234567891011,6.0,"5","Quimica");
-INSERT INTO tb_estudantes(nome,idade,endereco,cpf,nota,sala,materia)VALUES("Silvia",16,"Rua das Pessoas",1234567891011,5.5,"5","Quimica");
+INSERT INTO tb_estudantes(nome,idade,endereco,cpf,nota,sala,materia)VALUES("Silvia",16,"Rua das Pessoatb_atributoss",1234567891011,5.5,"5","Quimica");
 
 SELECT * FROM tb_estudantes;
 
